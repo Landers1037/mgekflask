@@ -54,5 +54,5 @@ schedule
 
 ### 示例
 
-[访问](http://io.landers1037.top/)
+[访问](http://www.landers1037.top/ssr/)
 
