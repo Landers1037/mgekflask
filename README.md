@@ -54,5 +54,5 @@ schedule
 
 ### 示例
 
-[访问](http://www.landers1037.top/ssr/)
+![demo](./demo.png)
 
